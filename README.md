@@ -1,5 +1,5 @@
 # Work-Day-Scheduler
-Joshua Mejia's workday schedule submission:
+Joshua Mejia's Challenge #5 Workday Schedule submission:
 Acceptance Criteria
 GIVEN I am using a daily planner to create a schedule
 WHEN I open the planner
@@ -17,3 +17,5 @@ THEN the saved events persist
 What I Learned
 I learned how to use the Day.js library to create a dynamic calendar.
 Dynamically creating functioning code with jQuery.
+Source:
+Copyright © 2023 Thomas Calle
